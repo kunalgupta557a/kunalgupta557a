@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalgupta557a&show_icons=true&locale=en" alt="kunalgupta557a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalgupta557a&" alt="kunalgupta557a" /></p>
+[![@kunalgupta557a's Holopin board](https://holopin.io/api/user/board?user=kunalgupta557a)](https://holopin.io/@kunalgupta557a)
